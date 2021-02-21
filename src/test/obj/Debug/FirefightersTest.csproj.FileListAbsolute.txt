@@ -1,0 +1,17 @@
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\FirefightersTest.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\FirefightersTest.pdb
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Firefighters.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Firefighters.pdb
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Firefighters.dll.config
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\obj\Debug\FirefightersTest.csprojAssemblyReference.cache
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\obj\Debug\FirefightersTest.csproj.CoreCompileInputs.cache
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\obj\Debug\FirefightersTest.csproj.CopyComplete
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\obj\Debug\FirefightersTest.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\obj\Debug\FirefightersTest.pdb
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gavsw\source\repos\FirefighterTakeHome_v1-csharp\src\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
